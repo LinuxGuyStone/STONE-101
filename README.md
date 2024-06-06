@@ -1,2 +1,4 @@
 # STONE-101
 Hello!  take a moment to briefly learn about me. :-)
+
+I have Seven years as a Security Professional where I was apart of several Incident Response Teams throughout my career. Additionally, along with a military background, I am a Armament Systems & Procedures (ASP) certified instructor specializing in teaching defensive weapons trainings. Currently I am pursing an education in Information Security. I would describe myself as an innovative & energetic individual who is successful at daily problem-solving. I am Sales-oriented, a practiced communicator committed to working with a successful team. What motivates my ambition to become a Security Analysts is my desire to venture all avenues of the Security industry. I want to acquire as many skills as possible to be the most versatile asset to any organization I represent. I have an unwavering passion to continually improve myself on a professional development level.
